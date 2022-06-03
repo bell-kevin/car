@@ -1,6 +1,6 @@
 package car;
 
-public class carDriver {
+public class Car {
 
     private String make;
     private int year;
