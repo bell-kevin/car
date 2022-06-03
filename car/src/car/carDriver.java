@@ -1,6 +1,6 @@
 package car;
 
-public class CarDriver {
+public class carDriver {
 
     public static void main(String[] args) {
            Car johnCar = new Car();
